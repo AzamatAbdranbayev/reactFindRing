@@ -1,0 +1,5 @@
+.Boxes {
+    display: flex;
+    flex-wrap: wrap;
+    width: 240px;
+}

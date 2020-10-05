@@ -1,0 +1,9 @@
+.button__reset {
+    padding: 10px;
+    background:linear-gradient(45deg,red,blue);
+    border: none;
+    color:#fff;
+    width: 100px;
+    font-size: 22px;
+    margin-top: 20px;
+}
